@@ -1,0 +1,14 @@
+D:\c#\Thread\Thread\obj\Debug\net10.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Thread\Thread\obj\Debug\net10.0\Thread.AssemblyInfoInputs.cache
+D:\c#\Thread\Thread\obj\Debug\net10.0\Thread.AssemblyInfo.cs
+D:\c#\Thread\Thread\obj\Debug\net10.0\Thread.csproj.CoreCompileInputs.cache
+D:\c#\Thread\Thread\bin\Debug\net10.0\Thread.exe
+D:\c#\Thread\Thread\bin\Debug\net10.0\Thread.deps.json
+D:\c#\Thread\Thread\bin\Debug\net10.0\Thread.runtimeconfig.json
+D:\c#\Thread\Thread\bin\Debug\net10.0\Thread.dll
+D:\c#\Thread\Thread\bin\Debug\net10.0\Thread.pdb
+D:\c#\Thread\Thread\obj\Debug\net10.0\Thread.dll
+D:\c#\Thread\Thread\obj\Debug\net10.0\refint\Thread.dll
+D:\c#\Thread\Thread\obj\Debug\net10.0\Thread.pdb
+D:\c#\Thread\Thread\obj\Debug\net10.0\Thread.genruntimeconfig.cache
+D:\c#\Thread\Thread\obj\Debug\net10.0\ref\Thread.dll
