@@ -1,0 +1,14 @@
+D:\c#\emp\emp\obj\Release\net10.0\emp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\emp\emp\obj\Release\net10.0\emp.AssemblyInfoInputs.cache
+D:\c#\emp\emp\obj\Release\net10.0\emp.AssemblyInfo.cs
+D:\c#\emp\emp\obj\Release\net10.0\emp.csproj.CoreCompileInputs.cache
+D:\c#\emp\emp\bin\Release\net10.0\emp.exe
+D:\c#\emp\emp\bin\Release\net10.0\emp.deps.json
+D:\c#\emp\emp\bin\Release\net10.0\emp.runtimeconfig.json
+D:\c#\emp\emp\bin\Release\net10.0\emp.dll
+D:\c#\emp\emp\bin\Release\net10.0\emp.pdb
+D:\c#\emp\emp\obj\Release\net10.0\emp.dll
+D:\c#\emp\emp\obj\Release\net10.0\refint\emp.dll
+D:\c#\emp\emp\obj\Release\net10.0\emp.pdb
+D:\c#\emp\emp\obj\Release\net10.0\emp.genruntimeconfig.cache
+D:\c#\emp\emp\obj\Release\net10.0\ref\emp.dll
