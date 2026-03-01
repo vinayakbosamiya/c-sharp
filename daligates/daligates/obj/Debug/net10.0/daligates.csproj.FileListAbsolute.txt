@@ -1,0 +1,14 @@
+D:\c#\daligates\daligates\obj\Debug\net10.0\daligates.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\daligates\daligates\obj\Debug\net10.0\daligates.AssemblyInfoInputs.cache
+D:\c#\daligates\daligates\obj\Debug\net10.0\daligates.AssemblyInfo.cs
+D:\c#\daligates\daligates\obj\Debug\net10.0\daligates.csproj.CoreCompileInputs.cache
+D:\c#\daligates\daligates\bin\Debug\net10.0\daligates.exe
+D:\c#\daligates\daligates\bin\Debug\net10.0\daligates.deps.json
+D:\c#\daligates\daligates\bin\Debug\net10.0\daligates.runtimeconfig.json
+D:\c#\daligates\daligates\bin\Debug\net10.0\daligates.dll
+D:\c#\daligates\daligates\bin\Debug\net10.0\daligates.pdb
+D:\c#\daligates\daligates\obj\Debug\net10.0\daligates.dll
+D:\c#\daligates\daligates\obj\Debug\net10.0\refint\daligates.dll
+D:\c#\daligates\daligates\obj\Debug\net10.0\daligates.pdb
+D:\c#\daligates\daligates\obj\Debug\net10.0\daligates.genruntimeconfig.cache
+D:\c#\daligates\daligates\obj\Debug\net10.0\ref\daligates.dll
