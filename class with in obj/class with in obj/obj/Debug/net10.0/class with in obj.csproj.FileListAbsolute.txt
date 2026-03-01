@@ -1,0 +1,14 @@
+D:\c#\class with in obj\class with in obj\obj\Debug\net10.0\class with in obj.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\class with in obj\class with in obj\obj\Debug\net10.0\class with in obj.AssemblyInfoInputs.cache
+D:\c#\class with in obj\class with in obj\obj\Debug\net10.0\class with in obj.AssemblyInfo.cs
+D:\c#\class with in obj\class with in obj\obj\Debug\net10.0\class with in obj.csproj.CoreCompileInputs.cache
+D:\c#\class with in obj\class with in obj\bin\Debug\net10.0\class with in obj.exe
+D:\c#\class with in obj\class with in obj\bin\Debug\net10.0\class with in obj.deps.json
+D:\c#\class with in obj\class with in obj\bin\Debug\net10.0\class with in obj.runtimeconfig.json
+D:\c#\class with in obj\class with in obj\bin\Debug\net10.0\class with in obj.dll
+D:\c#\class with in obj\class with in obj\bin\Debug\net10.0\class with in obj.pdb
+D:\c#\class with in obj\class with in obj\obj\Debug\net10.0\class with in obj.dll
+D:\c#\class with in obj\class with in obj\obj\Debug\net10.0\refint\class with in obj.dll
+D:\c#\class with in obj\class with in obj\obj\Debug\net10.0\class with in obj.pdb
+D:\c#\class with in obj\class with in obj\obj\Debug\net10.0\class with in obj.genruntimeconfig.cache
+D:\c#\class with in obj\class with in obj\obj\Debug\net10.0\ref\class with in obj.dll
