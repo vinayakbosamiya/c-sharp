@@ -1,0 +1,162 @@
+1. What is Regex?
+
+Regex (Regular Expression) means:
+
+👉 A pattern used to search text.
+
+Instead of searching only exact words, you can search using rules or patterns.
+
+Example file:
+
+apple
+aple
+aaple
+banana
+
+Regex allows you to search patterns like:
+
+a*ple
+
+This can match many words.
+
+2. What is a Regex Symbol?
+
+A regex symbol is a special character that has a special meaning in searching.
+
+Example symbols:
+
+.   *   ^   $   +   []
+
+These characters do not mean normal text.
+They mean special search rules.
+
+3. Example of Regex Symbol .
+
+File:
+
+apple
+aople
+axple
+aple
+
+Command:
+
+grep "a.ple" file.txt
+
+Here:
+
+.  = any single character
+
+Pattern:
+
+a.ple
+
+Matches:
+
+apple
+aople
+axple
+
+Not match:
+
+aple
+
+Because . needs one character.
+
+4. Example of Regex Symbol *
+*  = zero or more of previous character
+
+Example:
+
+aple
+apple
+appple
+
+Command:
+
+grep "ap*le" file.txt
+
+Matches:
+
+aple
+apple
+appple
+
+Because:
+
+p*  = p can repeat many times
+5. Example of Regex Symbol ^
+^ = start of line
+
+Example file:
+
+apple
+banana
+apricot
+
+Command:
+
+grep "^a" file.txt
+
+Output:
+
+apple
+apricot
+
+Because lines start with a.
+
+6. Example of Regex Symbol $
+$ = end of line
+
+Example:
+
+apple
+table
+banana
+
+Command:
+
+grep "le$" file.txt
+
+Output:
+
+apple
+table
+
+Because lines end with le.
+
+7. Most Important Regex Symbols for Beginners
+Symbol	Meaning
+.	any one character
+*	repeat previous character
+^	start of line
+$	end of line
+[]	match characters inside
+
+Example:
+
+grep "[ab]" file.txt
+
+Matches lines containing a or b.
+
+8. Simple Understanding
+
+Normal search:
+
+grep "apple" file.txt
+
+Regex search:
+
+grep "a.ple" file.txt
+
+Regex gives powerful searching rules.
+
+
+.   *   ^   $   +   []
+
+
+.	any one character
+*	repeat previous character
+^	start of line
+$	end of line
+[]	match characters inside
